@@ -1,0 +1,66 @@
+[
+    {
+        "firstname":"Billy Jones",
+        "lastname":"Elumba",
+        "phonenumber":"(+63)9092223412",
+        "email":"billyelumba@gmail.org",
+        "address":"Manila, Philippines",
+        "education": [
+            {
+                "school":"University of America (2021 to Present)",
+                "achievement":"Most Punctual"
+            },
+            {
+                "school":"San Pedro Calungsod High School (2015 to 2021)",
+                "achievement":"Valedictorian"
+            },
+            {
+                "school":"San Jose Elementary School (2007 to 2015)",
+                "achievement":"Most Behave"
+            }
+        ],
+        "skills": [
+            {
+                "skillset":"Proficient in Excel"
+            },
+            {
+                "skillset":"Proficient in Word"
+            },
+            {
+                "skillset":"Proficient in Premiere Pro"
+            },
+            {
+                "skillset":"Proficient in Canva"
+            },
+            {
+                "skillset":"Proficient in Photoshop"
+            },
+            {
+                "skillset":"Proficient in After Effects"
+            }
+        ],
+        "notable_achievement": [
+            {
+                "achieved":"Leadership program certified"
+            },
+            {
+                "achieved":"President of Let it go Foundation"
+            },
+            {
+                "achieved":"Vice President of Beef Barrel Fundings"
+            },
+            {
+                "achieved":"Founder of Mapagmahal sa bayan Society"
+            },
+            {
+                "achieved":"Champion in Speech Choir 2013 (Piece: Let me be the one)"
+            },
+            {
+                "achieved":"Best smile in the Academe"
+            },
+            {
+                "achieved":"Leadership award for best motivation"
+            }
+        ]
+    }
+]
